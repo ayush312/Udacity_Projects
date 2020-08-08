@@ -1,2 +1,2 @@
-Python code for K Means (on Movie Rating) and Hierarchical Clustering (on IRIS flower Data).
-If dataset is not given here, download the dataset from Udacity site.
+- Python code for K Means (on Movie Rating) and Hierarchical Clustering (on IRIS flower Data).
+- If dataset is not given here, download the dataset from Udacity site.
