@@ -1,0 +1,3 @@
+- The use of Keras module from tensflow on MNIST dataset, IMDB dataset and student admission dataset.
+- CNN is coded for cifar10 dataset in (MLP also implemented).
+- CNN with Image Augmentation on cifar10 dataset.
